@@ -1,0 +1,25 @@
+{
+  "name": "villeseppala-com",
+  "version": "1.0.0",
+  "description": "villeseppala.com website/portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vseppala/villeseppala-com.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Ville Seppälä <ville@villeseppala.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vseppala/villeseppala-com/issues"
+  },
+  "homepage": "https://github.com/vseppala/villeseppala-com#readme",
+  "devDependencies": {
+    "metalsmith": "^2.1.0"
+  }
+}
